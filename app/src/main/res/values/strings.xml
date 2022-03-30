@@ -13,4 +13,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="jog1">Jogador 1(X)</string>
     <string name="jog2">Jogador 2(O)</string>
+    <string name="venceu">Parabéns!! Você venceu!</string>
+    <string name="velha">Deu Velha!</string>
 </resources>
